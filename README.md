@@ -23,3 +23,6 @@ Presentation - I
 Presentation - II
   * Head of Acquisitions and Operations, NYC: This head looks after all the property and host acquisitions and operations. Acquisition of the best properties, price     negotiation, and negotiating the services the properties offer falls under the purview of this role.
   * Head of User Experience, NYC: The head of user experience looks after the customer preferences and also handles the properties listed on the website and the Airbnb app. Basically, the head of user experience tries to optimise the order of property listing in certain neighbourhoods and cities in order to get every property the optimal amount of traction.
+
+
+### Tableau Dashboard - https://public.tableau.com/app/profile/aishwarya.pradeep/viz/AirBnBdashboard_16834628803670/Dashboard1
